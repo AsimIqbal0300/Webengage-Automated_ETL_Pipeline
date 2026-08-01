@@ -1,0 +1,5 @@
+functions-framework==3.*
+pandas
+requests
+google-cloud-bigquery
+google-auth
