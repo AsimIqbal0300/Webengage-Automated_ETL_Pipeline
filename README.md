@@ -1,7 +1,7 @@
 
 # WebEngage → Gmail → BigQuery Pipeline
 
-Automated daily ELT pipeline that eliminates a manual reporting step: instead of someone logging into email, finding the scheduled WebEngage report, downloading it, and uploading it to BigQuery by hand, this runs on its own every day.
+Automated daily ETL pipeline that eliminates a manual reporting step: instead of someone logging into email, finding the scheduled WebEngage report, downloading it, and uploading it to BigQuery by hand, this runs on its own every day.
 
 ## What it does
 
