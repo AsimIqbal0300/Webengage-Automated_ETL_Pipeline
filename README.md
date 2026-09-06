@@ -1,5 +1,5 @@
 
-# WebEngage → Gmail → BigQuery Pipeline
+# WebEngage → Gmail → BigQuery Pipeline → Google Data Studio
 
 Automated daily ETL pipeline that eliminates a manual reporting step: instead of someone logging into email, finding the scheduled WebEngage report, downloading it, and uploading it to BigQuery by hand, this runs on its own every day.
 
