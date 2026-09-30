@@ -28,7 +28,7 @@ flowchart LR
 BigQuery is connected to Looker Studio as the data source, so the dashboard updates automatically after each daily load.
 
 - **Data source:** BigQuery table 
-- **Screenshot:** https://github.com/AsimIqbal0300/Webengage-Automated_ETL_Pipeline/blob/cf08b5b5211fb301ac757ad4e5937bdfc5bc359e/use%20this%20fo%20uplaod.png
+- **Screenshot:**![image alt](https://github.com/AsimIqbal0300/Webengage-Automated_ETL_Pipeline/blob/cf08b5b5211fb301ac757ad4e5937bdfc5bc359e/use%20this%20fo%20uplaod.png)
 
 ## Stack
 
